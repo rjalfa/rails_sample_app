@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#Records of Semi-realistic User records
+gem 'faker','1.4.2'
+#Bootstrap with SASS CSS for Rails
 gem 'bootstrap-sass','3.2.0.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
